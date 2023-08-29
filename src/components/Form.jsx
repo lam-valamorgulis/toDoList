@@ -1,7 +1,7 @@
 const Form = () => {
   return (
     <form className="add-form">
-      <h3>Add item</h3>
+      <h3>Add item: </h3>
       <input
         type="text"
         placeholder="Item..."
